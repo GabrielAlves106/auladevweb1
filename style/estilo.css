@@ -1,0 +1,14 @@
+h1{
+    color:rgb(202, 27, 27);
+}
+
+p {
+    color:black;
+    text-align:justify;
+    padding: 5%;
+}
+
+.imagens {
+    width: 120px;
+    height: 120px;
+}
